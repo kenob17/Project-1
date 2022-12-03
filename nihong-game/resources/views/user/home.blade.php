@@ -47,7 +47,7 @@
         </a>
       </div>
       <div class="-my-2 -mr-2 md:hidden">
-        <button type="button" class="inline-flex items-center justify-center rounded-md bg-white p-2 text-gray-400 hover:bg-gray-100 hover:text-gray-500 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-indigo-500" aria-expanded="false">
+        <button type="button" class="inline  -flex items-center justify-center rounded-md bg-white p-2 text-gray-400 hover:bg-gray-100 hover:text-gray-500 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-indigo-500" aria-expanded="false">
           <span class="sr-only">Open menu</span>
           <!-- Heroicon name: outline/bars-3 -->
           <svg class="h-6 w-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true">
@@ -85,7 +85,7 @@
             </button>
         </div>
         <div class="w-screen h-screen mt-8  md:h-2/3 md:w-1/2"">
-            <img src="{{asset('/images/logo.png')}}" alt="">
+            <img src="{{asset('/images/logo2.png')}}" alt="">
         </div>
     </div>
     
